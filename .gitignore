@@ -1,0 +1,6 @@
+.idea/
+.venv/
+/checkpoints
+__pycache__/
+logs/
+bert/
